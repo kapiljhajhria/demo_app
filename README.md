@@ -1,4 +1,4 @@
-# demo_app
+# demo_app ![](https://travis-ci.org/kapiljhajhria/demo_app.svg?branch=master)
 
 A new Flutter application.
 
